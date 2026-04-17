@@ -1,2 +1,6 @@
-# portf-lio.mardeneluz2026
-Formada em Pedagogia, pos graduada em psicopedagogia e Graduanda em Sistemas para Internet - Desenvolvedora Web em formação · Apaixonada por tecnologia e soluções digitais.
+cd portfolio-mardene
+git init
+git add .
+git commit -m "feat: portfólio migrado para React"
+git remote add origin https://github.com/SEU_USUARIO/portfolio-mardene.git
+git push -u origin main
